@@ -1,4 +1,4 @@
-# projeto_DIO.ME_cloud_practitioner
+# projeto_DIO.ME_cloud_practitioner_serviços
 
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS 
 Data: [15/06/2023] Empresa: Abstergo Industries Responsável: [João Carlos da Silva Oliveira] 
